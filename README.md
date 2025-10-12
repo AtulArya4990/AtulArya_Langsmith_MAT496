@@ -37,3 +37,10 @@ Video 3: Experiments
 
 Experiments are basically running your llm application over a dataset and evauluating its performance with evaluators. We can run experiments in our SDK( using evaluate() ) or in the langsmith UI. I also analysed the impact of chanhing the llm model on the evaulation of the performance. I also learned how to run our experiment on specific subsets of examples like the initial version of the dataset and the split versions, and individual examples. I also learned that we can run our experiment over a certain example for x number of times this ensures us that we get consitent results. We can also run our experimnets with different parameters such as repetition, concurrent threads and metadata.
 
+
+
+
+Module 3 Summary
+    
+     lesson 1(Playground): Here, I learned if I give the same prompt to different AI's,how differently they will respond to the same prompt, we can compare their performances and choose the best answer out of them.   Repetitions are very useful for consistency and double checks that if I am able to respond to a question correctly every time(useful for high temperature or complex prompts).
+
