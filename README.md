@@ -49,6 +49,8 @@ lesson 1(Playground): Here, I learned if I give the same prompt to different AI'
 
   I also craeted my own examples about my favourite sport  basketball and and set the api model to gpt-4o-mini and in the prompt i added that "give me a one line answer" to make it short, i asked three questions to the model to which it answered correctly
   <img width="1872" height="894" alt="image" src="https://github.com/user-attachments/assets/e3b89d91-9e40-4dfd-bd1c-d6e627a69452" />
+  <img width="1138" height="254" alt="image" src="https://github.com/user-attachments/assets/f277ced5-b2ec-44ce-9c7b-d5018cefd96a" />
+
 
 
     
