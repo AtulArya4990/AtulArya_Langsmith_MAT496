@@ -46,4 +46,7 @@ lesson 1(Playground): Here, I learned if I give the same prompt to different AI'
    We need to insert our api key and after that we can select any model of ai, here i used gpt 4o mini. 
    <img width="1845" height="876" alt="image" src="https://github.com/user-attachments/assets/e41694d8-4734-454b-bbef-de1453a6407d" /> (this is the example of question taht the module tutor made us do).
 
+
+  I also craeted my own examples about my favourite sport  basketball and and set the api model to gpt-4o-mini and in the prompt i added that "give me a one line answer" to make it short, i asked three questions to the model to which it answered correctly
+
     
