@@ -42,6 +42,6 @@ Experiments are basically running your llm application over a dataset and evaulu
 
 Module 3 Summary
     
-lesson 1(Playground): Here, I learned if I give the same prompt to different AI's,how differently they will respond to the same prompt, we can compare their performances and choose the best answer out of them.   Repetitions are very useful for consistency and double checks that if I am able to respond to a question correctly every time(useful for high temperature or complex prompts).Module 3 Summary
-    
+lesson 1(Playground): Here, I learned if I give the same prompt to different AI's,how differently they will respond to the same prompt, we can compare their performances and choose the best answer out of them.   Repetitions are very useful for consistency and double checks that if I am able to respond to a question correctly every time(useful for high temperature or complex prompts).
+   We need to insert our api key and after that we can select any model of ai, here i used gpt 4o mini. 
     
