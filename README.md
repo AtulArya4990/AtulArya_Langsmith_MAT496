@@ -70,7 +70,11 @@ lesson 1(Playground): Here, I learned if I give the same prompt to different AI'
               <img width="1893" height="855" alt="image" src="https://github.com/user-attachments/assets/2b9beebd-2453-43bd-b163-e74acf997589" />
 
 
-  Lesson 3(Prompt engineering lifecycle) :           
+  Lesson 3(Prompt engineering lifecycle) : I will import this langsmith_rag from app.py filr where i have defined this application and ask questions about it. I                have asked 2 question about the topics.          
+        <img width="1457" height="488" alt="image" src="https://github.com/user-attachments/assets/db0d8e80-a050-4c5b-acab-ae3ed2a6c406" />
+        Here in the Langsmith we can see our latest trace:
+          <img width="1789" height="777" alt="image" src="https://github.com/user-attachments/assets/ab750908-fe18-4387-984b-3ea4b062e050" />
+
 
 
 
