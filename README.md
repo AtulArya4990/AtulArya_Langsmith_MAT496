@@ -81,6 +81,17 @@ lesson 1(Playground): Here, I learned if I give the same prompt to different AI'
            <img width="827" height="905" alt="image" src="https://github.com/user-attachments/assets/9e84d1b5-7a95-42e5-8990-18568a0c9ce4" />
          I gave the syatem a command to give the code whenever needed:
            <img width="1611" height="825" alt="image" src="https://github.com/user-attachments/assets/cd61803d-6fdd-4654-92cf-dae870701d23" />
+         With the help of dataset to get the particular answer to the particular qustion i defined both the question and answer in the dataset.So, I started this            dataset in the playground without repetition with open ai.
+           <img width="1734" height="898" alt="image" src="https://github.com/user-attachments/assets/bdc18547-7e2a-4e28-ba46-b7d456776f77" />
+           <img width="1636" height="879" alt="image" src="https://github.com/user-attachments/assets/5d046490-836e-4777-9b49-97bf6da37d4b" />
+         So, instead of using the rag manually in the code, i pulled it from Prompt hub from the langsmith and here we will nor require any rag prompt in our code:
+           <img width="817" height="101" alt="image" src="https://github.com/user-attachments/assets/5a8d8f6f-a778-4250-ae6d-8f976f74c113" />
+         So i checked this with the help of three examples:
+           <img width="1457" height="837" alt="image" src="https://github.com/user-attachments/assets/cc034a3e-8fda-420b-abf5-1b5aa9763aee" />
+
+
+
+
 
 
 
