@@ -53,7 +53,9 @@ lesson 1(Playground): Here, I learned if I give the same prompt to different AI'
 
 
   lesson 2(Prompt Hub): solution of versioning, storing and iterating on our prompts overtime, prompt template includes template message, model configuration and        output schema
-        When we create a prompt one prompt is defaultly created(Chat-style Prompt which has list of messages) aond the other is not default(Instruct-style prompt        which provides message with a single message). 
+        When we create a prompt one prompt is defaultly created(Chat-style Prompt which has list of messages) and the other is not default(Instruct-style prompt         which provides message with a single message).
+         In the system setting i put a prompt "You are a teacher and you teach {subject}". I have also set the output property as string. I saved the prompt and         named "teacher". 
+          Using the "pull_prompt", i used this teacher prompt and asked the question to it.
 
 
 
