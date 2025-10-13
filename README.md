@@ -92,6 +92,32 @@ lesson 1(Playground): Here, I learned if I give the same prompt to different AI'
 
 
 
+ Lesson 4 (Prompt Canvas) : In this lesson i learnt about canvas prompts, here i gave instructions to the cahatbot LLM agent that to be precise on what we want in         the output.
+        <img width="1496" height="872" alt="image" src="https://github.com/user-attachments/assets/25c15c27-5863-46bb-82d9-61064df0d640" />
+      I played with the prompts and asked the chat to do changes and also asked it to suggest me how i can improve this prompt , i also manually added thing in            the  prompt.
+      Using this i asket some questions without repetitions:
+        <img width="1635" height="843" alt="image" src="https://github.com/user-attachments/assets/8e5a7176-1599-469b-bcf8-16e2f33651a2" />
+      I also changed a particular text of the canvas prompt:
+        <img width="1491" height="789" alt="image" src="https://github.com/user-attachments/assets/1d627050-ea30-4ccd-9a43-6157b22836d7" />
+        <img width="1415" height="746" alt="image" src="https://github.com/user-attachments/assets/6cf7042b-30f5-4321-addd-985b2f85e2c0" />
+      I also created a quick action:
+        <img width="492" height="506" alt="image" src="https://github.com/user-attachments/assets/5d69d228-ff62-4c96-aec7-b810e813b146" />
+        <img width="1482" height="821" alt="image" src="https://github.com/user-attachments/assets/b291824a-dbf9-45b0-82cd-7edd64528cb8" />
+        <img width="1484" height="841" alt="image" src="https://github.com/user-attachments/assets/c21d1113-f42c-4402-8c7b-482540ea70da" />
+
+
+
+
+
+
+
+ 
+
+           
+
+
+
+
 
 
 
