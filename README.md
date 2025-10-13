@@ -64,6 +64,9 @@ lesson 1(Playground): Here, I learned if I give the same prompt to different AI'
             <img width="1472" height="676" alt="image" src="https://github.com/user-attachments/assets/1bcd13d1-e752-4bd6-ae92-52bc414cd670" />
           I also learnt to push the prompts programmatically to the prompt hub trough stk. I named a science_prompt and now it will answer accordingly an i used                 push_prompt to push this prompt upto langsmith prompt hub. 
              <img width="1451" height="545" alt="image" src="https://github.com/user-attachments/assets/209d83c3-2837-47a8-8ad2-26e90122fa6c" />
+           Now I imported ChatOpenAI and specified the model name and chained it with the prompt hub.
+             <img width="1473" height="600" alt="image" src="https://github.com/user-attachments/assets/b4a90b37-caf7-4699-ad3c-a46ec2a49c14" />
+
 
 
 
