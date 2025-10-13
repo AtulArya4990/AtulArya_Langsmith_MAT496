@@ -52,9 +52,9 @@ lesson 1(Playground): Here, I learned if I give the same prompt to different AI'
    <img width="1138" height="254" alt="image" src="https://github.com/user-attachments/assets/f277ced5-b2ec-44ce-9c7b-d5018cefd96a" />
 
 
-  lesson 2(Prompt Hub): solution of versioning, storing and iterating on our prompts overtime, prompt template includes template message, model configuration and        output schema
-        When we create a prompt one prompt is defaultly created(Chat-style Prompt which has list of messages) and the other is not default(Instruct-style prompt         which provides message with a single message).
-         In the system setting i put a prompt "You are a teacher and you teach {subject}". I have also set the output property as string. I saved the prompt and         named "teacher". 
+  lesson 2(Prompt Hub): solution of versioning, storing and iterating on our prompts overtime, prompt template includes template message, model configuration and          output schema
+        When we create a prompt one prompt is defaultly created(Chat-style Prompt which has list of messages) and the other is not default(Instruct-style prompt           which provides message with a single message).
+         In the system setting i put a prompt "You are a teacher and you teach {subject}". I have also set the output property as string. I saved the prompt and           named "teacher". 
           Using the "pull_prompt", i used this teacher prompt and asked the question to it.
            i asked 3 questions of my choice about different subjects.
            <img width="1479" height="839" alt="image" src="https://github.com/user-attachments/assets/7f3d6724-e45d-47ce-a0ed-55891fe216aa" />
@@ -66,6 +66,12 @@ lesson 1(Playground): Here, I learned if I give the same prompt to different AI'
              <img width="1451" height="545" alt="image" src="https://github.com/user-attachments/assets/209d83c3-2837-47a8-8ad2-26e90122fa6c" />
            Now I imported ChatOpenAI and specified the model name and chained it with the prompt hub.
              <img width="1473" height="600" alt="image" src="https://github.com/user-attachments/assets/b4a90b37-caf7-4699-ad3c-a46ec2a49c14" />
+             Here is my saved science prompt:
+              <img width="1893" height="855" alt="image" src="https://github.com/user-attachments/assets/2b9beebd-2453-43bd-b163-e74acf997589" />
+
+
+  Lesson 3(Prompt engineering lifecycle) :           
+
 
 
 
