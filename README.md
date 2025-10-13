@@ -60,6 +60,9 @@ lesson 1(Playground): Here, I learned if I give the same prompt to different AI'
            <img width="1479" height="839" alt="image" src="https://github.com/user-attachments/assets/7f3d6724-e45d-47ce-a0ed-55891fe216aa" />
            earlier when we pulled the prompt we did not include the model but now we will include it.When we include the model to true, in the output we get to see              the "answer", this is the output of gpt-4o-mini output.
             <img width="1461" height="679" alt="image" src="https://github.com/user-attachments/assets/15b0dce5-6b98-4d82-8fe8-aa87438b08ac" />
+          If we make changes in our system make write "You are a teacher from the future, 2500 AD and you teach {subject}", then this makes a new commit.Then i               ask question related to what are the common topics for a matrix student of a particular subject of that time?
+            <img width="1472" height="676" alt="image" src="https://github.com/user-attachments/assets/1bcd13d1-e752-4bd6-ae92-52bc414cd670" />
+
 
 
 
