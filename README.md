@@ -56,9 +56,9 @@ lesson 1(Playground): Here, I learned if I give the same prompt to different AI'
         When we create a prompt one prompt is defaultly created(Chat-style Prompt which has list of messages) and the other is not default(Instruct-style prompt         which provides message with a single message).
          In the system setting i put a prompt "You are a teacher and you teach {subject}". I have also set the output property as string. I saved the prompt and         named "teacher". 
           Using the "pull_prompt", i used this teacher prompt and asked the question to it.
-           <img width="1437" height="698" alt="image" src="https://github.com/user-attachments/assets/e55d97e5-0dcc-46ab-bbaf-424b33a0ee95" />
            i asked 3 questions of my choice about different subjects.
-           <img width="1451" height="602" alt="image" src="https://github.com/user-attachments/assets/2ec12223-1d00-4974-b64a-7b513b9d7dc6" />
+           <img width="1479" height="839" alt="image" src="https://github.com/user-attachments/assets/7f3d6724-e45d-47ce-a0ed-55891fe216aa" />
+
 
 
 
