@@ -47,9 +47,13 @@ lesson 1(Playground): Here, I learned if I give the same prompt to different AI'
    <img width="1845" height="876" alt="image" src="https://github.com/user-attachments/assets/e41694d8-4734-454b-bbef-de1453a6407d" /> (this is the example of question taht the module tutor made us do).
 
 
-  I also craeted my own examples about my favourite sport  basketball and and set the api model to gpt-4o-mini and in the prompt i added that "give me a one line answer" to make it short, i asked three questions to the model to which it answered correctly
-  <img width="1872" height="894" alt="image" src="https://github.com/user-attachments/assets/e3b89d91-9e40-4dfd-bd1c-d6e627a69452" />
-  <img width="1138" height="254" alt="image" src="https://github.com/user-attachments/assets/f277ced5-b2ec-44ce-9c7b-d5018cefd96a" />
+  I also craeted my own examples about my favourite sport  basketball and and set the api model to gpt-4o-mini and in the prompt i added that "give me a one line       answer" to make it short, i asked three questions to the model to which it answered correctly
+   <img width="1872" height="894" alt="image" src="https://github.com/user-attachments/assets/e3b89d91-9e40-4dfd-bd1c-d6e627a69452" />
+   <img width="1138" height="254" alt="image" src="https://github.com/user-attachments/assets/f277ced5-b2ec-44ce-9c7b-d5018cefd96a" />
+
+
+  lesson 2(Prompt Hub): solution of versioning, storing and iterating on our prompts overtime, prompt template includes template message, model configuration and        output schema
+        When we create a prompt one prompt is defaultly created(Chat-style Prompt which has list of messages) aond the other is not default(Instruct-style prompt        which provides message with a single message). 
 
 
 
