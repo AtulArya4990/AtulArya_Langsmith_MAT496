@@ -62,6 +62,9 @@ lesson 1(Playground): Here, I learned if I give the same prompt to different AI'
             <img width="1461" height="679" alt="image" src="https://github.com/user-attachments/assets/15b0dce5-6b98-4d82-8fe8-aa87438b08ac" />
           If we make changes in our system make write "You are a teacher from the future, 2500 AD and you teach {subject}", then this makes a new commit.Then i               ask question related to what are the common topics for a matrix student of a particular subject of that time?
             <img width="1472" height="676" alt="image" src="https://github.com/user-attachments/assets/1bcd13d1-e752-4bd6-ae92-52bc414cd670" />
+          I also learnt to push the prompts programmatically to the prompt hub trough stk. I named a science_prompt and now it will answer accordingly an i used                 push_prompt to push this prompt upto langsmith prompt hub. 
+             <img width="1451" height="545" alt="image" src="https://github.com/user-attachments/assets/209d83c3-2837-47a8-8ad2-26e90122fa6c" />
+
 
 
 
