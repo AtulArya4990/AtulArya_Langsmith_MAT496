@@ -58,7 +58,9 @@ lesson 1(Playground): Here, I learned if I give the same prompt to different AI'
           Using the "pull_prompt", i used this teacher prompt and asked the question to it.
            i asked 3 questions of my choice about different subjects.
            <img width="1479" height="839" alt="image" src="https://github.com/user-attachments/assets/7f3d6724-e45d-47ce-a0ed-55891fe216aa" />
-           earlier when we pulled the prompt we did not include the model but now we will include it.
+           earlier when we pulled the prompt we did not include the model but now we will include it.When we include the model to true, in the output we get to see              the "answer", this is the output of gpt-4o-mini output.
+            <img width="1461" height="679" alt="image" src="https://github.com/user-attachments/assets/15b0dce5-6b98-4d82-8fe8-aa87438b08ac" />
+
 
 
 
